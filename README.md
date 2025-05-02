@@ -1,4 +1,5 @@
 # LLMaura- Host your LLM in-house.
+![LLMaura](open-webui.png)
 
 LLMaura automates the installation of Ollama and Open WebUI.
 
