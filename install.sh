@@ -27,7 +27,7 @@ APP_GROUP="openwebui"
 # Define Ollama models to download
 OLLAMA_MODELS=("tinyllama" "phi" "mistral" "gemma:2b" "mistral:7b-instruct-v0.2-q4_K_M")
 
-echo "Starting Ollama and Open WebUI installation without Docker on Debian 12..."
+echo "Starting LLMaura :Ollama and Open WebUI installation..."
 
 # Check if running as root
 if [[ $EUID -ne 0 ]]; then
